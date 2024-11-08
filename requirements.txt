@@ -1,0 +1,5 @@
+jupyterlab==4.2.5
+json5==0.9.25
+pandas==2.2.3
+PyYAML==6.0.2
+requests==2.32.3
